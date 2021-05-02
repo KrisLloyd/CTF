@@ -1,6 +1,6 @@
-[< Back to All CTFs](https://github.com/KrisLloyd/Python/tree/master/CTF#ctf-solves)
+[< Back to All CTFs](https://github.com/KrisLloyd/CTF#ctf-solves)
 
-[< Back to AE CTF](https://github.com/KrisLloyd/Python/tree/master/CTF#ae-ctf---tryhackme-april-2021)
+[< Back to FooBar CTF](https://github.com/KrisLloyd/CTF#ae-ctf---tryhackme-april-2021)
 ***
 
 # Pickle Rick
