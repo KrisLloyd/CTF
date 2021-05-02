@@ -1,6 +1,6 @@
-[< Back to All CTFs](https://github.com/KrisLloyd/Python/tree/master/CTF#ctf-solves)
+[< Back to All CTFs](https://github.com/KrisLloyd/CTF#ctf-solves)
 
-[< Back to Imaginary CTF](https://github.com/KrisLloyd/Python/tree/master/CTF#imaginary-ctf-ongoing-2021)
+[< Back to Imaginary CTF](https://github.com/KrisLloyd/CTF#imaginary-ctf-ongoing-2021)
 ***
 
 # Look For It
