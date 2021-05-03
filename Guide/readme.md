@@ -8,9 +8,9 @@ Common CTF challenges, and how to approach them.
 
 ### Index
 
-* [ELF Files]()
-* [Images]()
-* [Ciphers]()
+* [ELF Files](https://github.com/KrisLloyd/CTF/tree/main/Guide#elf-files-pwn)
+* [Images](https://github.com/KrisLloyd/CTF/tree/main/Guide#image-files-stego)
+* [Ciphers](https://github.com/KrisLloyd/CTF/tree/main/Guide#ciphers)
 
 <br></br>
 
