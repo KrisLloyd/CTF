@@ -1,6 +1,12 @@
 [< Back to About](https://github.com/KrisLloyd/About#about)
 ***
+# CTF Guide
 
+[CTF Guide](https://github.com/KrisLloyd/CTF/tree/main/Guide#ctf-guide)
+
+A guide on how to approach CTF challenges.
+
+<br></br>
 # CTF Solves
 
 ### BIT Olymipcs (March 2021)
