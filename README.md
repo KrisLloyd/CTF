@@ -2,9 +2,9 @@
 ***
 # CTF Guide
 
-[CTF Guide](https://github.com/KrisLloyd/CTF/tree/main/Guide#ctf-guide)
+* [CTF Guide](https://github.com/KrisLloyd/CTF/tree/main/Guide#ctf-guide)
 
-A guide on how to approach CTF challenges.
+  A guide on how to approach CTF challenges.
 
 <br></br>
 # CTF Solves
