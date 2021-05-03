@@ -89,7 +89,7 @@ Hidden messages in image files
 
 * Matoran (bionicle):
 
-  ![Matoran](./matoran.png)
+  ![Matoran](./matoran.gif)
   * [Decoder](https://lingojam.com/MatoranAlphabet)
 
 * Standard Galactic Alphabet (Commander Keen / Minecraft):
