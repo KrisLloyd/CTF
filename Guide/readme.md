@@ -1,4 +1,4 @@
-##CTF Guide
+## CTF Guide
 
 Common CTF challenges, and how to approach them.
 
@@ -67,3 +67,57 @@ Hidden messages in image files
   `binwalk -Me image.png`
 7. Fix any corrupted chunks with pngcheck (-v verbose, -t7 text chunks, -p display other chunk content, -f force)
   `pngcheck -vt7pf image.png`
+  
+  
+### Ciphers
+
+Pigpen:
+
+![Pigpen](./pigpen.png)
+
+Matoran (bionicle):
+
+![Matoran](./matoran.png)
+* [Decoder](https://lingojam.com/MatoranAlphabet)
+
+Standard Galactic Alphabet (Commander Keen / Minecraft):
+
+![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
+* [Decoder](https://www.dcode.fr/standard-galactic-alphabet)
+
+Hexahue:
+
+![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
+* [Decoder](https://www.dcode.fr/hexahue-cipher)
+
+Alienese (Futurama):
+
+![Alienese](./alienese.png)
+* [Decoder](https://alienese.moxievillelabs.com/)
+
+![Alien Language 2](./alienese2.jpg)
+* [Alien Language 2 Decoder](http://www.gotfuturama.com/Interactive/AlienCodec/)
+
+Braille:
+
+![Braille](./braille.png)
+* [Decoder](https://www.brailletranslator.org/)
+
+
+Pitman Shorthand:
+
+![Pitman](./pitman.png)
+* [Encoder only](https://steno.tu-clausthal.de/Pitman.php)
+* [Ask for help](https://www.reddit.com/r/shorthand/)
+
+
+Morse Code:
+
+![Morse Code](./morsecode.jpg)
+* [Decoder](https://morsecode.world/international/translator.html)
+
+
+Bill Cipher (Gravity Falls):
+
+![Bill Cipher](./billcipher.png)
+* [Decoder](https://www.dcode.fr/gravity-falls-bill-cipher)
