@@ -83,53 +83,53 @@ Hidden messages in image files
 <br></br>
 ### Ciphers
 
-Pigpen:
+* Pigpen:
 
-![Pigpen](./pigpen.png)
+  ![Pigpen](./pigpen.jpeg)
 
-Matoran (bionicle):
+* Matoran (bionicle):
 
-![Matoran](./matoran.png)
-* [Decoder](https://lingojam.com/MatoranAlphabet)
+  ![Matoran](./matoran.png)
+  * [Decoder](https://lingojam.com/MatoranAlphabet)
 
-Standard Galactic Alphabet (Commander Keen / Minecraft):
+* Standard Galactic Alphabet (Commander Keen / Minecraft):
 
-![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
-* [Decoder](https://www.dcode.fr/standard-galactic-alphabet)
+  ![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
+  * [Decoder](https://www.dcode.fr/standard-galactic-alphabet)
 
-Hexahue:
+* Hexahue:
 
-![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
-* [Decoder](https://www.dcode.fr/hexahue-cipher)
+  ![Standard Galactic Alphabet](./StandardGalacticAlphabet.gif)
+  * [Decoder](https://www.dcode.fr/hexahue-cipher)
 
-Alienese (Futurama):
+* Alienese (Futurama):
 
-![Alienese](./alienese.gif)
-* [Decoder](https://alienese.moxievillelabs.com/)
+  ![Alienese](./alienese.gif)
+  * [Decoder](https://alienese.moxievillelabs.com/)
 
-![Alien Language 2](./alienese2.jpg)
-* [Alien Language 2 Decoder](http://www.gotfuturama.com/Interactive/AlienCodec/)
+  ![Alien Language 2](./alienese2.jpg)
+  * [Alien Language 2 Decoder](http://www.gotfuturama.com/Interactive/AlienCodec/)
 
-Braille:
+* Braille:
 
-![Braille](./braille.png)
-* [Decoder](https://www.brailletranslator.org/)
-
-
-Pitman Shorthand:
-
-![Pitman](./pitman.png)
-* [Encoder only](https://steno.tu-clausthal.de/Pitman.php)
-* [Ask for help](https://www.reddit.com/r/shorthand/)
+  ![Braille](./braille.png)
+  * [Decoder](https://www.brailletranslator.org/)
 
 
-Morse Code:
+* Pitman Shorthand:
 
-![Morse Code](./morsecode.jpg)
-* [Decoder](https://morsecode.world/international/translator.html)
+  ![Pitman](./pitman.png)
+  * [Encoder only](https://steno.tu-clausthal.de/Pitman.php)
+  * [Ask for help](https://www.reddit.com/r/shorthand/)
 
 
-Bill Cipher (Gravity Falls):
+* Morse Code:
 
-![Bill Cipher](./billcipher.png)
-* [Decoder](https://www.dcode.fr/gravity-falls-bill-cipher)
+  ![Morse Code](./morsecode.jpg)
+  * [Decoder](https://morsecode.world/international/translator.html)
+
+
+* Bill Cipher (Gravity Falls):
+
+  ![Bill Cipher](./billcipher.png)
+  * [Decoder](https://www.dcode.fr/gravity-falls-bill-cipher)
