@@ -92,7 +92,7 @@ Hexahue:
 
 Alienese (Futurama):
 
-![Alienese](./alienese.png)
+![Alienese](./alienese.gif)
 * [Decoder](https://alienese.moxievillelabs.com/)
 
 ![Alien Language 2](./alienese2.jpg)
