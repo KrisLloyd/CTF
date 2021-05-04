@@ -24,7 +24,7 @@ An ELF binary is comprised of different sections, headers, sections, and segment
 
 ![ELF File Structure](./ELF_Structure.PNG)
 
-**Heasers** section contains metadata about the program and helps the process of execution.
+**Headers** section contains metadata about the program and helps the process of execution.
 **Sections** contain the **.text**, **.data** sections. These sections are where the code and variables are stored.
 
 source code file:
@@ -50,7 +50,7 @@ root@localhost:~# ./hello
 Hello world!
 ```
 
-#### Exploiting
+#### Techniques
 
 1. Check for printable strings in the exectable:
   `strings ./hello`
