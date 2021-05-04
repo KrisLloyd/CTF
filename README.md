@@ -66,6 +66,7 @@
 #### [ Crypto ]
 
 * [Rotations](./Rotations)
+* [Countdown Baseball](./CountdownBaseball)
 
 #### [ Forensics ]
 
