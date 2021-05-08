@@ -41,12 +41,12 @@ int main() {
 
 Compile the file using **gcc**
 ```bash
-root@localhost:~# gcc hello.c -o hello
+kali@kali:~# gcc hello.c -o hello
 ```
 
 run the binary
 ```bash
-root@localhost:~# ./hello
+kali@kali:~# ./hello
 Hello world!
 ```
 
@@ -79,6 +79,14 @@ Hidden messages in image files
   `binwalk -Me image.png`
 7. Fix any corrupted chunks with pngcheck (-v verbose, -t7 text chunks, -p display other chunk content, -f force)
   `pngcheck -vt7pf image.png`
+
+### Lost Files from an Image file (dd, Safeback, Encase, etc.)
+Recover lost files with **foremost**
+
+```bash
+kali@kali:~# foremost -t doc,jpg,pdf,xls -i image.dd
+```
+  
   
 <br></br>
 ### Ciphers
