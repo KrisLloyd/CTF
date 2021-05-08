@@ -11,6 +11,7 @@ Common CTF challenges, and how to approach them.
 * [ELF Files](https://github.com/KrisLloyd/CTF/tree/main/Guide#elf-files-pwn)
 * [Images](https://github.com/KrisLloyd/CTF/tree/main/Guide#image-files-stego)
 * [Ciphers](https://github.com/KrisLloyd/CTF/tree/main/Guide#ciphers)
+* [Hashes](https://github.com/KrisLloyd/CTF/tree/main/Guide#hashes)
 
 <br></br>
 
@@ -143,3 +144,9 @@ kali@kali:~# foremost -t doc,jpg,pdf,xls -i image.dd
 
   ![Bill Cipher](./billcipher.png)
   * [Decoder](https://www.dcode.fr/gravity-falls-bill-cipher)
+
+<br></br>
+
+### Hashes
+
+Use [Crack Station](https://crackstation.net/) to solve a hash to recover the plaintext
