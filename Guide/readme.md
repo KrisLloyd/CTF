@@ -80,6 +80,8 @@ Hidden messages in image files
 7. Fix any corrupted chunks with pngcheck (-v verbose, -t7 text chunks, -p display other chunk content, -f force)
   `pngcheck -vt7pf image.png`
 
+<br></br>
+
 ### Lost Files from an Image file (dd, Safeback, Encase, etc.)
 Recover lost files with **foremost**
 
