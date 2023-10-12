@@ -15,6 +15,16 @@ Common CTF challenges, and how to approach them.
 
 <br></br>
 
+### Windows Alternate Data Streams (STEGO)
+
+To Do: 
+- Complete this section
+- Add in section references
+
+Check for files with ADS in Windows:
+dir /R
+
+
 ### ELF Files (PWN)
 
 #### About
